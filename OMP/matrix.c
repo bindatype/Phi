@@ -1,3 +1,5 @@
+// C is a pain in the @$$
+
 /* matrix.c (Rob Farber) */
 #ifndef MIC_DEV
 #define MIC_DEV 0
